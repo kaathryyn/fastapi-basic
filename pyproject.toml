@@ -1,0 +1,10 @@
+[project]
+name = "fastapi-basic"
+version = "1.0"
+authors=[{name="Kathryn Corpuz"}]
+
+
+[tool.poetry.dependencies]
+python="^3.13"
+pydantic = "^2.10.6"
+pytest = "^8.3.4"
